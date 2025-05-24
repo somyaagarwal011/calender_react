@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Meeting with Team",
+      "date": "2025-05-24",
+      "time": "8:00",
+      "duration": "1h"
+    },
+    {
+      "title": "Salon Appointment",
+      "date": "2025-05-24",
+      "time": "10:30",
+      "duration": "30m"
+    },
+    {
+      "title": "Project Deadline",
+      "date": "2025-05-28",
+      "time": "14:00",
+      "duration": "2h"
+    }
+  ]
